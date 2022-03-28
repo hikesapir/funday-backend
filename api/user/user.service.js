@@ -1,7 +1,7 @@
 
 const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
-const reviewService = require('../review/review.service')
+// const reviewService = require('../review/review.service')
 const ObjectId = require('mongodb').ObjectId
 
 module.exports = {
@@ -38,11 +38,11 @@ async function getById(userId) {
         const user = await collection.findOne({ _id: ObjectId(userId) })
         delete user.password
 
-        user.givenReviews = await reviewService.query({ byUserId: ObjectId(user._id) })
-        user.givenReviews = user.givenReviews.map(review => {
-            delete review.byUser
-            return review
-        })
+        // user.givenReviews = await reviewService.query({ byUserId: ObjectId(user._id) })
+        // user.givenReviews = user.givenReviews.map(review => {
+        //     delete review.byUser
+        //     return review
+        // })
 
         return user
     } catch (err) {
@@ -96,7 +96,9 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            score: 100
+            imgUrl: user.imgUrl || "https://res.cloudinary.com/mistertoysss/image/upload/v1648463489/vote_1_bkio4y.png",
+            boards: [],
+            mentions: []
         }
         const collection = await dbService.getCollection('user')
         await collection.insertOne(userToAdd)

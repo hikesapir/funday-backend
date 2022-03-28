@@ -5,10 +5,8 @@ const logger = require('../../services/logger.service')
 // GET LIST
 async function getBoards(req, res) {
     try {
-        
         var filterBy = req.query
         const boards = await boardService.query(filterBy)
-
         res.json(boards)
     } catch (err) {
         logger.error('Failed to get boards', err)
