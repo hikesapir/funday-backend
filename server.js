@@ -5,25 +5,31 @@ const expressSession = require('express-session')
 
 const app = express()
 const http = require('http').createServer(app)
-
+const dotenv = require('dotenv')
 // Express App Config
 const session = expressSession({
-    secret: 'funday the 3th',
-    resave: false,
-    saveUninitialized: true,
-    cookie: { secure: false }
+  secret: 'funday the 3th',
+  resave: false,
+  saveUninitialized: true,
+  cookie: { secure: false },
 })
 app.use(express.json())
 app.use(session)
 
 if (process.env.NODE_ENV === 'production') {
-    app.use(express.static(path.resolve(__dirname, 'public')))
+  app.use(express.static(path.resolve(__dirname, 'public')))
 } else {
-    const corsOptions = {
-        origin: ['http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:3000', 'http://localhost:3000'],
-        credentials: true
-    }
-    app.use(cors(corsOptions))
+  const corsOptions = {
+    origin: [
+      'http://127.0.0.1:8080',
+      'http://localhost:8080',
+      'http://127.0.0.1:3000',
+      'http://localhost:3000',
+    ],
+    credentials: true,
+  }
+  app.use(cors(corsOptions))
+  dotenv.config()
 }
 
 const authRoutes = require('./api/auth/auth.routes')
@@ -44,12 +50,13 @@ app.use('/api/board', boardRoutes)
 // so when requesting http://localhost:3030/index.html/car/123 it will still respond with
 // our SPA (single page app) (the index.html file) and allow vue/react-router to take it from there
 app.get('/**', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'index.html'))
+  res.sendFile(path.join(__dirname, 'public', 'index.html'))
 })
-
 
 const logger = require('./services/logger.service')
 const port = process.env.PORT || 3030
 http.listen(port, () => {
-    logger.info(`App listening on port ${port}! http://localhost:${port}`)
+  logger.info(
+    `App listening on port ${port}! http://localhost:${port}`
+  )
 })
