@@ -31,10 +31,14 @@ function connectSockets(http, session) {
         .emit('task-updated', { groupId, task })
     })
     socket.on('add-task', ({ groupIdx, task }) => {
-      console.log('add-task')
       socket.broadcast
         .to(socket.boardId)
         .emit('task-added', { groupIdx, task })
+    })
+    socket.on('remove-task', ({ groupIdx, taskIdx }) => {
+      socket.broadcast
+        .to(socket.boardId)
+        .emit('task-removed', { groupIdx, taskIdx })
     })
     socket.on('set-user-socket', (userId) => {
       logger.debug(
