@@ -45,6 +45,19 @@ function connectSockets(http, session) {
         .to(socket.boardId)
         .emit('cmps-order-edited', newOrder)
     })
+    socket.on(
+      'add-update',
+      ({ taskId, boardId, groupId, txt }) => {
+        socket.broadcast
+          .to(socket.boardId)
+          .emit('update-added', {
+            taskId,
+            boardId,
+            txt,
+            groupId,
+          })
+      }
+    )
     socket.on('set-user-socket', (userId) => {
       logger.debug(
         `Setting (${socket.id}) socket.userId = ${userId}`
