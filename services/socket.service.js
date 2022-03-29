@@ -40,6 +40,11 @@ function connectSockets(http, session) {
         .to(socket.boardId)
         .emit('task-removed', { groupIdx, taskIdx })
     })
+    socket.on('edit-cmps-order', (newOrder) => {
+      socket.broadcast
+        .to(socket.boardId)
+        .emit('cmps-order-edited', newOrder)
+    })
     socket.on('set-user-socket', (userId) => {
       logger.debug(
         `Setting (${socket.id}) socket.userId = ${userId}`
