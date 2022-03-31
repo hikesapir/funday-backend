@@ -5,10 +5,9 @@
       "createdAt": 1647966887053,
       "isStarred": true,
       "createdBy": {
-        "_id": "u104",
-        "fullname": "Someone",
-        "imgUrl":
-          "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+        "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
       },
       "cmpsOrder": [
         {
@@ -92,27 +91,69 @@
       "members": [
         {
           "_id": "u101",
-          "fullname": "Sapir Hiki",
-          "imgUrl":
-            "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070371/a1avc0ofryx5enjnbklv.jpg"
+          "fullname": "Israel Israeli ",
+          "imgUrl": "https://res.cloudinary.com/mistertoysss/image/upload/v1648414062/funday%20must/k9yzIPxC_400x400_qriu7j.jpg"
+    
         },
         {
           "_id": "u102",
           "fullname": "Lior Amar",
-          "imgUrl":
-            "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070372/w1hcqybgmllnpl8ld2zh.jpg"
+          "imgUrl": "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070372/w1hcqybgmllnpl8ld2zh.jpg"
+    
         },
         {
           "_id": "u103",
-          "fullname": "Roee Furman",
-          "imgUrl":
-            "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070370/qpolx3ucumsiscnf0ymk.jpg"
+          "fullname": "Roee furman",
+          "imgUrl": "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070370/qpolx3ucumsiscnf0ymk.jpg"
+    
         },
         {
           "_id": "u104",
-          "fullname": "Someone",
-          "imgUrl":
-            "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+          "fullname": "Sapir Hiki",
+          "imgUrl": "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070371/a1avc0ofryx5enjnbklv.jpg"
+    
+        },
+        {
+          "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+    
+        },
+        {
+          "_id": "u106",
+          "fullname": "Poki Ben-David",
+          "imgUrl": "https://res.cloudinary.com/mistertoysss/image/upload/v1648414113/funday%20must/photo-1568602471122-7832951cc4c5_fbs2vc.jpg"
+    
+        },
+        {
+          "_id": "u107",
+          "fullname": "Lulu Moppet",
+          "imgUrl": "https://res.cloudinary.com/mistertoysss/image/upload/v1648414159/funday%20must/photo-1573496359142-b8d87734a5a2_uftqho.jpg"
+    
+        },
+        {
+          "_id": "u108",
+          "fullname": "Arthur Reed",
+          "imgUrl": "https://res.cloudinary.com/mistertoysss/image/upload/v1648414247/funday%20must/photo-1566492031773-4f4e44671857_pezzjc.jpg"
+    
+        },
+        {
+          "_id": "u109",
+          "fullname": "Melissa Altro",
+          "imgUrl": "https://res.cloudinary.com/mistertoysss/image/upload/v1648414285/funday%20must/photo-1618085222100-93f0eecad0aa_fuisxo.jpg"
+    
+        },
+        {
+          "_id": "u110",
+          "fullname": "Julie Lemieux",
+          "imgUrl": "https://res.cloudinary.com/mistertoysss/image/upload/v1648414292/funday%20must/photo-1551836022-deb4988cc6c0_t4if9h.jpg"
+    
+        },
+        {
+          "_id": "u111",
+          "fullname": "Admin Admin",
+          "imgUrl": "https://res.cloudinary.com/mistertoysss/image/upload/v1648414297/funday%20must/photo-1472099645785-5658abf4ff4e_lhdb3o.jpg"
+    
         }
       ],
       "groups": [
@@ -127,10 +168,9 @@
               "id": "t101",
               "createdAt": 1590999730348,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -151,19 +191,17 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -171,10 +209,9 @@
               "id": "t102",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -187,7 +224,7 @@
                 "start": 1649797200000,
                 "end": 1647468000000
               },
-              "tags": [{ "txt": "first", "color": "#e2445c" }],
+              "tags": [],
               "files": [],
               "updates": [
                 {
@@ -195,10 +232,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -206,19 +242,17 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 },
                 {
                   "_id": "u103",
@@ -232,10 +266,9 @@
               "id": "t103",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -256,10 +289,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -267,10 +299,9 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
@@ -282,10 +313,9 @@
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070371/a1avc0ofryx5enjnbklv.jpg"
                 },
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -293,10 +323,9 @@
               "id": "t104",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -317,10 +346,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -328,10 +356,9 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
@@ -349,10 +376,9 @@
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070370/qpolx3ucumsiscnf0ymk.jpg"
                 },
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -360,10 +386,9 @@
               "id": "t105",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -384,10 +409,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -395,19 +419,17 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 },
                 {
                   "_id": "u103",
@@ -430,10 +452,9 @@
               "id": "t106",
               "createdAt": 1648077401126,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -454,19 +475,17 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -474,10 +493,9 @@
               "id": "t107",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -490,7 +508,7 @@
                 "start": 1647969348820,
                 "end": 1648928976136
               },
-              "tags": [{ "txt": "second", "color": "blue" }],
+              "tags": [],
               "files": [],
               "updates": [
                 {
@@ -498,10 +516,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -509,19 +526,17 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 },
                 {
                   "_id": "u102",
@@ -535,10 +550,9 @@
               "id": "t108",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -551,7 +565,7 @@
                 "start": 1647969348820,
                 "end": 1648928976136
               },
-              "tags": [{ "txt": "second", "color": "blue" }],
+              "tags": [],
               "files": [],
               "updates": [
                 {
@@ -559,10 +573,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -570,10 +583,9 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
@@ -585,10 +597,9 @@
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070372/w1hcqybgmllnpl8ld2zh.jpg"
                 },
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -596,10 +607,9 @@
               "id": "t109",
               "createdAt": 1648077924927,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -620,10 +630,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -631,19 +640,17 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -667,7 +674,7 @@
                 "start": 1647969348820,
                 "end": 1648928976136
               },
-              "tags": [{ "txt": "style", "color": "pink" }],
+              "tags": [],
               "files": [],
               "updates": [
                 {
@@ -675,10 +682,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -686,10 +692,9 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
@@ -701,10 +706,9 @@
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070372/w1hcqybgmllnpl8ld2zh.jpg"
                 },
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             }
@@ -721,10 +725,9 @@
               "id": "t111",
               "createdAt": 1648077901326,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -745,19 +748,17 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -765,10 +766,9 @@
               "id": "t112",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -789,10 +789,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -800,10 +799,9 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
@@ -815,10 +813,9 @@
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070371/a1avc0ofryx5enjnbklv.jpg"
                 },
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -826,10 +823,9 @@
               "id": "t113",
               "createdAt": 1647967976136,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -842,7 +838,7 @@
                 "start": 1647969348820,
                 "end": 1648928976136
               },
-              "tags": [{ "txt": "server", "color": "#4eccc6" }],
+              "tags": [],
               "files": [],
               "updates": [
                 {
@@ -850,10 +846,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -861,19 +856,17 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -881,10 +874,9 @@
               "id": "t114",
               "createdAt": 1648077924927,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+                "fullname": "Abi Abambi",
+                "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -905,10 +897,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -916,19 +907,17 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+                  "fullname": "Abi Abambi",
+                  "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
               ]
             },
@@ -936,10 +925,9 @@
               "id": "t115",
               "createdAt": 1648078924927,
               "byMember": {
-                "_id": "u104",
-                "fullname": "Someone",
-                "imgUrl":
-                  "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
               },
               "style": {
                 "color": "#26de81"
@@ -960,10 +948,9 @@
                   "txt": "First update for this task",
                   "createdAt": 1647968252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+                    "fullname": "Abi Abambi",
+                    "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 },
                 {
@@ -971,19 +958,17 @@
                   "txt": "Second update for this task",
                   "createdAt": 1647969252227,
                   "byMember": {
-                    "_id": "u104",
-                    "fullname": "Someone",
-                    "imgUrl":
-                      "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                    "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                   }
                 }
               ],
               "members": [
                 {
-                  "_id": "u104",
-                  "fullname": "Someone",
-                  "imgUrl":
-                    "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+                  "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 },
                 {
                   "_id": "u101",
@@ -1001,10 +986,9 @@
           "id": "a101",
           "createdAt": 1647967977136,
           "byMember": {
-            "_id": "u104",
-            "fullname": "Someone",
-            "imgUrl":
-              "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
+            "_id": "u105",
+          "fullname": "Abi Abambi",
+          "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
           },
           "description": {
             "type": "task",
