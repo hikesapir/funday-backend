@@ -45,9 +45,10 @@ function connectSockets(http, session) {
                 .to(socket.boardId)
                 .emit('cmps-order-edited', newOrder)
         })
-        socket.on(
-            'add-update',
-            ({ taskId, boardId, groupId, update }) => {
+        socket.on('edit-groups-order', (newOrder => {
+            socket.broadcast.to(socket.boardId).emit('cmps-groups-edited', newOrder)
+        }))
+        socket.on( 'add-update',  ({ taskId, boardId, groupId, update }) => {
                 socket.broadcast
                     .to(socket.boardId)
                     .emit('update-added', {
@@ -68,6 +69,9 @@ function connectSockets(http, session) {
         })
         socket.on('unset-user-socket', () => {
             delete socket.userId
+        })
+        socket.on('save-board',(board)=>{
+            socket.broadcast.to(socket.boardId).emit('board-saved', board)
         })
     })
 }

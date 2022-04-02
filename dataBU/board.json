@@ -37,6 +37,10 @@
         {
           "cmpName": "file-picker",
           "preName": "Files"
+        },
+        {
+          "cmpName": "number-picker",
+          "preName": "Numbers"
         }
       ],
       "style": {
@@ -203,7 +207,8 @@
           "fullname": "Abi Abambi",
           "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t102",
@@ -260,7 +265,8 @@
                   "imgUrl":
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070370/qpolx3ucumsiscnf0ymk.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t103",
@@ -317,7 +323,8 @@
           "fullname": "Abi Abambi",
           "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t104",
@@ -380,7 +387,8 @@
                   "fullname": "Abi Abambi",
                   "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t105",
@@ -437,7 +445,8 @@
                   "imgUrl":
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070370/qpolx3ucumsiscnf0ymk.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             }
           ]
         },
@@ -487,7 +496,8 @@
                   "fullname": "Abi Abambi",
                   "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t107",
@@ -544,7 +554,8 @@
                   "imgUrl":
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070372/w1hcqybgmllnpl8ld2zh.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t108",
@@ -601,7 +612,8 @@
                   "fullname": "Abi Abambi",
                   "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t109",
@@ -652,7 +664,8 @@
                   "fullname": "Abi Abambi",
                   "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t110",
@@ -710,7 +723,8 @@
           "fullname": "Abi Abambi",
           "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             }
           ]
         },
@@ -760,7 +774,8 @@
                   "fullname": "Abi Abambi",
                   "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t112",
@@ -817,7 +832,8 @@
                   "fullname": "Abi Abambi",
                   "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t113",
@@ -868,7 +884,8 @@
           "fullname": "Abi Abambi",
           "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t114",
@@ -919,7 +936,8 @@
                   "fullname": "Abi Abambi",
                   "imgUrl": "https://res.cloudinary.com/shaishar9/image/upload/v1590850482/j1glw3c9jsoz2py0miol.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             },
             {
               "id": "t115",
@@ -940,7 +958,7 @@
                 "start": 1647969348820,
                 "end": 1648928976136
               },
-              "tags": [{ "txt": "fun", "color": "pink" }],
+              "tags": [{ "txt": "fun", "color": "#ff00e6" }],
               "files": [],
               "updates": [
                 {
@@ -976,7 +994,8 @@
                   "imgUrl":
                     "https://res.cloudinary.com/mistertoyyyyyyyy/image/upload/v1648070371/a1avc0ofryx5enjnbklv.jpg"
                 }
-              ]
+              ],
+              "numbers": null
             }
           ]
         }
