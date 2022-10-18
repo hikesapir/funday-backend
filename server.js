@@ -20,7 +20,18 @@ app.use(express.urlencoded({ limit: '50mb' }))
 app.use(session)
 
 if (process.env.NODE_ENV === 'production') {
-  app.use(express.static(path.resolve(__dirname, 'public')))
+  // app.use(express.static(path.resolve(__dirname, 'public')))
+  const corsOptions = {
+    origin: [
+      'https://instush.onrender.com',
+      // 'http://localhost:8080',
+      // 'http://127.0.0.1:3000',
+      // 'http://localhost:3000',
+    ],
+    credentials: true,
+  }
+  app.use(cors(corsOptions))
+  dotenv.config()
 } else {
   const corsOptions = {
     origin: [
